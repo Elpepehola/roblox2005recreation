@@ -1,2 +1,2 @@
-# roblox2005recreation
+# A Roblox 2005 Recreation
 A roblox 2005 recreation based on blocks3d made by https://github.com/Vulpovile/ and the original repo https://github.com/Vulpovile/Blocks3D
